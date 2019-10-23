@@ -1,7 +1,7 @@
 from math import*
 import math
 def prog():
-    print(("Hello, welcome to Python Caculator Early Access v1.12").center(100))
+    print(("Hello, welcome to Python Calculator").center(100))
     print(("="*56).center(100))
     fnum = float(input("Please insert the first number: "))
     userinput = input("Please insert which opreation you would like to use by using the number next to it: \n1.Addtion\n2.Subtraction\n3.Mutiplication\n4.Division\n5.Pi\n6.Square Root\n")
